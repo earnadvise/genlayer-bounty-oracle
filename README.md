@@ -72,11 +72,11 @@ pytest
 platform win32 -- Python 3.11.9, pytest-9.1.1, pluggy-1.6.0
 rootdir: intelligent-contracts
 configfile: pytest.ini
-collected 5 items
+collected 8 items
 
-tests/test_bounty_oracle.py .....                                        [100%]
+tests/test_bounty_oracle.py ........                                     [100%]
 
-============================== 5 passed in 0.04s ==============================
+============================== 8 passed in 0.09s ==============================
 ```
 
 ### Test Coverage Highlights:
